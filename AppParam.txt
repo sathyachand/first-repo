@@ -1,0 +1,15 @@
+ALLOW_ONE=true
+ALLOW_TWO=true
+ALLOW_THR=true
+ALLOW_FOU=true
+ALLOW_FIV=true
+ALLOW_SIX=true
+ALLOW_SEV=true
+ALLOW_EIG=true
+ALLOW_NIN=true
+ALLOW_ZEO=true
+ALLOW_TEN=true
+ALLOW_ELE=true
+ALLOW_TWE=true
+ALLOW_THT=true
+ALLOW_FVT=true
