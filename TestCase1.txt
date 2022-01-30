@@ -1,1 +1,2 @@
 This is to learn git, some junk test 1
+This is to learn git, some junk test line 2
